@@ -1,3 +1,4 @@
+本文转载自：https://github.com/ProtoTeam/blog/blob/master/201805/1.md
 # 如何在疲劳的JS世界中持续学习
 
 > 作者简介 cnfi 蚂蚁金服·数据体验技术团队
